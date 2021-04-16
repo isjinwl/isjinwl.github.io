@@ -117,7 +117,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #4acaa8 !important;
+			color: #164266; rgb 代码值：rgb(22,66,102) !important;
 		}
 
 	strong, b {
