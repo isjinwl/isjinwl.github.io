@@ -1,30 +1,14 @@
-Agency Jekyll theme
-====================
+# Minimal Theme
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+[Demo the Theme](http://orderedlist.github.com/minimal/)
 
-# How to use
+This is the raw HTML and styles that are used for the *minimal* theme on [GitHub Pages](http://pages.github.com/).
 
-###Portfolio 
+Syntax highlighting is provided on GitHub Pages by [Pygments](http://pygments.org).
 
-Portfolio projects are in '/_posts'
+# License
 
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
+This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
 
 
-# Demo
 
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
