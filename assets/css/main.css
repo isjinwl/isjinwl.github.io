@@ -2402,7 +2402,7 @@ input, select, textarea {
 			}
 
 			ul.feature-icons li:before {
-				background: #3aadd6;
+				background: #FFFFFF;
 				border-radius: 100%;
 				color: #ffffff;
 				display: block;
@@ -2772,7 +2772,7 @@ input, select, textarea {
 			}
 
 				#header > footer .icons li a {
-					color: #3aadd6;
+					color: #FFFFFF;
 				}
 
 		#header > nav {
@@ -2789,7 +2789,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #3aadd6;
+					border-top: solid 2px #FFFFFF;
 					display: block;
 					padding: 0;
 				}
